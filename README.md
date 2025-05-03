@@ -11,7 +11,7 @@ This tool allows you to generate images using the same prompt across all three m
 
 ## Live Demo
 
-Access the live demo: [https://yourusername.github.io/openai-image-compare](https://yourusername.github.io/openai-image-compare)
+Access the live demo: [https://wonderwhy-er.github.io/openai-image-compare-cursor](https://wonderwhy-er.github.io/openai-image-compare-cursor)
 
 ## Usage
 
@@ -25,8 +25,8 @@ Access the live demo: [https://yourusername.github.io/openai-image-compare](http
 Simply clone this repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/yourusername/openai-image-compare.git
-cd openai-image-compare
+git clone https://github.com/wonderwhy-er/openai-image-compare-cursor.git
+cd openai-image-compare-cursor
 # Open index.html in your browser
 ```
 
@@ -59,7 +59,7 @@ Your API key is only used in your browser to make direct API calls to OpenAI. It
 2. Go to your repository settings
 3. Navigate to the Pages section
 4. Select the main branch as the source
-5. Your site will be published at `https://yourusername.github.io/openai-image-compare`
+5. Your site will be published at `https://wonderwhy-er.github.io/openai-image-compare-cursor`
 
 ## Contributing
 
