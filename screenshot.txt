@@ -1,0 +1,2 @@
+Replace this file with a screenshot of your application.
+You can take a screenshot after using the tool and save it as screenshot.png in this directory. 
