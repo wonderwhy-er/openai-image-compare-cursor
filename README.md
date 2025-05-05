@@ -1,4 +1,4 @@
-# OpenAI Image Compare
+# OpenAI Image Compare - Made with Cursor and Sonent 3.7 for Vibe Coding comparison
 
 A simple web-based tool to compare image generation results from different OpenAI models:
 - DALL-E 2
